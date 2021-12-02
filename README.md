@@ -1,5 +1,5 @@
 # WORMY
-How to Play Wormy
+#### How to Play Wormy
 Wormy is a Nibbles clone. The player starts out controlling a short worm that is constantly
 moving around the screen. The player cannot stop or slow down the worm, but they can control
 which direction it turns. A red apple appears randomly on the screen, and the player must move
